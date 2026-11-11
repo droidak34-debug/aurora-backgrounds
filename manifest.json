@@ -3,229 +3,285 @@
   "tv": [
     {
       "file": "tv_01.jpg",
-      "title": "Godafoss, Islande"
+      "title": "Godafoss, Islande",
+      "bytes": 386776
     },
     {
       "file": "tv_02.jpg",
-      "title": "Village du Père Noël, Rovaniemi (Laponie finlandaise)"
+      "title": "Village du Père Noël, Rovaniemi (Laponie finlandaise)",
+      "bytes": 457818
     },
     {
       "file": "tv_03.jpg",
-      "title": "Mælifell, Islande"
+      "title": "Mælifell, Islande",
+      "bytes": 411635
     },
     {
       "file": "tv_04.jpg",
-      "title": "Reine et Hamnøy, îles Lofoten (Norvège)"
+      "title": "Reine et Hamnøy, îles Lofoten (Norvège)",
+      "bytes": 357680
     },
     {
       "file": "tv_05.jpg",
-      "title": "Hamnøy, îles Lofoten (Norvège)"
+      "title": "Hamnøy, îles Lofoten (Norvège)",
+      "bytes": 355877
     },
     {
       "file": "tv_06.jpg",
-      "title": "Paysage arctique inspiré du Groenland"
+      "title": "Paysage arctique inspiré du Groenland",
+      "bytes": 338538
     },
     {
       "file": "tv_07.jpg",
-      "title": "Aldeyjarfoss, Islande"
+      "title": "Aldeyjarfoss, Islande",
+      "bytes": 307886
     },
     {
       "file": "tv_08.jpg",
-      "title": "Reine, îles Lofoten (Norvège)"
+      "title": "Reine, îles Lofoten (Norvège)",
+      "bytes": 341103
     },
     {
       "file": "tv_09.jpg",
-      "title": "Forêt enneigée d'Alaska (États-Unis)"
+      "title": "Forêt enneigée d'Alaska (États-Unis)",
+      "bytes": 566467
     },
     {
       "file": "tv_10.jpg",
-      "title": "Paysage arctique inspiré du Groenland"
+      "title": "Paysage arctique inspiré du Groenland",
+      "bytes": 321030
     },
     {
       "file": "tv_11.jpg",
-      "title": "Jökulsárlón et la plage de diamants, Islande"
+      "title": "Jökulsárlón et la plage de diamants, Islande",
+      "bytes": 293203
     },
     {
       "file": "tv_12.jpg",
-      "title": "Lac Mývatn, Islande"
+      "title": "Lac Mývatn, Islande",
+      "bytes": 279896
     },
     {
       "file": "tv_13.jpg",
-      "title": "Stokksnes, Islande"
+      "title": "Stokksnes, Islande",
+      "bytes": 423564
     },
     {
       "file": "tv_14.jpg",
-      "title": "Seljalandsfoss, Islande"
+      "title": "Seljalandsfoss, Islande",
+      "bytes": 394450
     },
     {
       "file": "tv_15.jpg",
-      "title": "Hvítserkur, Islande"
+      "title": "Hvítserkur, Islande",
+      "bytes": 268909
     },
     {
       "file": "tv_16.jpg",
-      "title": "Dyrhólaey, Islande"
+      "title": "Dyrhólaey, Islande",
+      "bytes": 284084
     },
     {
       "file": "tv_17.jpg",
-      "title": "Reynisfjara et ses macareux, Islande"
+      "title": "Reynisfjara et ses macareux, Islande",
+      "bytes": 337116
     },
     {
       "file": "tv_18.jpg",
-      "title": "Seljalandsfoss, Islande"
+      "title": "Seljalandsfoss, Islande",
+      "bytes": 356343
     },
     {
       "file": "tv_19.jpg",
-      "title": "Gljúfrabúi, Islande"
+      "title": "Gljúfrabúi, Islande",
+      "bytes": 317611
     },
     {
       "file": "tv_20.jpg",
-      "title": "Svartifoss, Islande"
+      "title": "Svartifoss, Islande",
+      "bytes": 407854
     },
     {
       "file": "tv_21.jpg",
-      "title": "Vestrahorn, Islande"
+      "title": "Vestrahorn, Islande",
+      "bytes": 313551
     },
     {
       "file": "tv_22.jpg",
-      "title": "Hengifoss, Islande"
+      "title": "Hengifoss, Islande",
+      "bytes": 470349
     },
     {
       "file": "tv_23.jpg",
-      "title": "Canyon de Stuðlagil, Islande"
+      "title": "Canyon de Stuðlagil, Islande",
+      "bytes": 350166
     },
     {
       "file": "tv_24.jpg",
-      "title": "Canyon de Kolugljúfur, Islande"
+      "title": "Canyon de Kolugljúfur, Islande",
+      "bytes": 383411
     },
     {
       "file": "tv_25.jpg",
-      "title": "Gatklettur, Islande"
+      "title": "Gatklettur, Islande",
+      "bytes": 369097
     },
     {
       "file": "tv_26.jpg",
-      "title": "Parc national de Denali, Alaska"
+      "title": "Parc national de Denali, Alaska",
+      "bytes": 365939
     },
     {
       "file": "tv_27.jpg",
-      "title": "Fjords de Kenai, Alaska"
+      "title": "Fjords de Kenai, Alaska",
+      "bytes": 312548
     },
     {
       "file": "tv_28.jpg",
-      "title": "Seward Highway, Alaska"
+      "title": "Seward Highway, Alaska",
+      "bytes": 260121
     }
   ],
   "tel": [
     {
       "file": "tel_01.jpg",
-      "title": "Godafoss, Islande"
+      "title": "Godafoss, Islande",
+      "bytes": 377702
     },
     {
       "file": "tel_02.jpg",
-      "title": "Village du Père Noël, Rovaniemi (Laponie finlandaise)"
+      "title": "Village du Père Noël, Rovaniemi (Laponie finlandaise)",
+      "bytes": 422810
     },
     {
       "file": "tel_03.jpg",
-      "title": "Mælifell, Islande"
+      "title": "Mælifell, Islande",
+      "bytes": 381579
     },
     {
       "file": "tel_04.jpg",
-      "title": "Reine et Hamnøy, îles Lofoten (Norvège)"
+      "title": "Reine et Hamnøy, îles Lofoten (Norvège)",
+      "bytes": 352276
     },
     {
       "file": "tel_05.jpg",
-      "title": "Hamnøy, îles Lofoten (Norvège)"
+      "title": "Hamnøy, îles Lofoten (Norvège)",
+      "bytes": 393015
     },
     {
       "file": "tel_06.jpg",
-      "title": "Paysage arctique inspiré du Groenland"
+      "title": "Paysage arctique inspiré du Groenland",
+      "bytes": 387566
     },
     {
       "file": "tel_07.jpg",
-      "title": "Aldeyjarfoss, Islande"
+      "title": "Aldeyjarfoss, Islande",
+      "bytes": 311077
     },
     {
       "file": "tel_08.jpg",
-      "title": "Reine, îles Lofoten (Norvège)"
+      "title": "Reine, îles Lofoten (Norvège)",
+      "bytes": 352340
     },
     {
       "file": "tel_09.jpg",
-      "title": "Forêt enneigée d'Alaska (États-Unis)"
+      "title": "Forêt enneigée d'Alaska (États-Unis)",
+      "bytes": 584907
     },
     {
       "file": "tel_10.jpg",
-      "title": "Paysage arctique inspiré du Groenland"
+      "title": "Paysage arctique inspiré du Groenland",
+      "bytes": 376300
     },
     {
       "file": "tel_11.jpg",
-      "title": "Jökulsárlón et la plage de diamants, Islande"
+      "title": "Jökulsárlón et la plage de diamants, Islande",
+      "bytes": 268408
     },
     {
       "file": "tel_12.jpg",
-      "title": "Lac Mývatn, Islande"
+      "title": "Lac Mývatn, Islande",
+      "bytes": 332921
     },
     {
       "file": "tel_13.jpg",
-      "title": "Stokksnes, Islande"
+      "title": "Stokksnes, Islande",
+      "bytes": 481265
     },
     {
       "file": "tel_14.jpg",
-      "title": "Seljalandsfoss, Islande"
+      "title": "Seljalandsfoss, Islande",
+      "bytes": 349024
     },
     {
       "file": "tel_15.jpg",
-      "title": "Hvítserkur, Islande"
+      "title": "Hvítserkur, Islande",
+      "bytes": 298408
     },
     {
       "file": "tel_16.jpg",
-      "title": "Dyrhólaey, Islande"
+      "title": "Dyrhólaey, Islande",
+      "bytes": 295873
     },
     {
       "file": "tel_17.jpg",
-      "title": "Reynisfjara et ses macareux, Islande"
+      "title": "Reynisfjara et ses macareux, Islande",
+      "bytes": 283616
     },
     {
       "file": "tel_18.jpg",
-      "title": "Seljalandsfoss, Islande"
+      "title": "Seljalandsfoss, Islande",
+      "bytes": 342116
     },
     {
       "file": "tel_19.jpg",
-      "title": "Gljúfrabúi, Islande"
+      "title": "Gljúfrabúi, Islande",
+      "bytes": 382857
     },
     {
       "file": "tel_20.jpg",
-      "title": "Svartifoss, Islande"
+      "title": "Svartifoss, Islande",
+      "bytes": 384295
     },
     {
       "file": "tel_21.jpg",
-      "title": "Vestrahorn, Islande"
+      "title": "Vestrahorn, Islande",
+      "bytes": 326237
     },
     {
       "file": "tel_22.jpg",
-      "title": "Hengifoss, Islande"
+      "title": "Hengifoss, Islande",
+      "bytes": 429369
     },
     {
       "file": "tel_23.jpg",
-      "title": "Canyon de Stuðlagil, Islande"
+      "title": "Canyon de Stuðlagil, Islande",
+      "bytes": 333523
     },
     {
       "file": "tel_24.jpg",
-      "title": "Canyon de Kolugljúfur, Islande"
+      "title": "Canyon de Kolugljúfur, Islande",
+      "bytes": 386020
     },
     {
       "file": "tel_25.jpg",
-      "title": "Gatklettur, Islande"
+      "title": "Gatklettur, Islande",
+      "bytes": 375525
     },
     {
       "file": "tel_26.jpg",
-      "title": "Parc national de Denali, Alaska"
+      "title": "Parc national de Denali, Alaska",
+      "bytes": 388318
     },
     {
       "file": "tel_27.jpg",
-      "title": "Fjords de Kenai, Alaska"
+      "title": "Fjords de Kenai, Alaska",
+      "bytes": 296743
     },
     {
       "file": "tel_28.jpg",
-      "title": "Seward Highway, Alaska"
+      "title": "Seward Highway, Alaska",
+      "bytes": 291422
     }
   ]
 }
