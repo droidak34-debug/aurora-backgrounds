@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "photos": [
+    { "id": "01", "name": "Godafoss, Islande" },
+    { "id": "02", "name": "Village du Père Noël, Rovaniemi (Laponie finlandaise)" },
+    { "id": "03", "name": "Mælifell, Islande" },
+    { "id": "04", "name": "Reine et Hamnøy, îles Lofoten (Norvège)" },
+    { "id": "05", "name": "Hamnøy, îles Lofoten (Norvège)" },
+    { "id": "06", "name": "Paysage arctique inspiré du Groenland" },
+    { "id": "07", "name": "Aldeyjarfoss, Islande" },
+    { "id": "08", "name": "Reine, îles Lofoten (Norvège)" },
+    { "id": "09", "name": "Forêt enneigée d'Alaska (États-Unis)" },
+    { "id": "10", "name": "Paysage arctique inspiré du Groenland" },
+    { "id": "11", "name": "Jökulsárlón et la plage de diamants, Islande" },
+    { "id": "12", "name": "Lac Mývatn, Islande" },
+    { "id": "13", "name": "Stokksnes, Islande" },
+    { "id": "14", "name": "Seljalandsfoss, Islande" },
+    { "id": "15", "name": "Hvítserkur, Islande" },
+    { "id": "16", "name": "Dyrhólaey, Islande" },
+    { "id": "17", "name": "Reynisfjara et ses macareux, Islande" },
+    { "id": "18", "name": "Seljalandsfoss, Islande" },
+    { "id": "19", "name": "Gljúfrabúi, Islande" },
+    { "id": "20", "name": "Svartifoss, Islande" },
+    { "id": "21", "name": "Vestrahorn, Islande" },
+    { "id": "22", "name": "Hengifoss, Islande" },
+    { "id": "23", "name": "Canyon de Stuðlagil, Islande" },
+    { "id": "24", "name": "Canyon de Kolugljúfur, Islande" },
+    { "id": "25", "name": "Gatklettur, Islande" },
+    { "id": "26", "name": "Parc national de Denali, Alaska" },
+    { "id": "27", "name": "Fjords de Kenai, Alaska" },
+    { "id": "28", "name": "Seward Highway, Alaska" }
+  ]
+}
