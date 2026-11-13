@@ -140,6 +140,41 @@
       "file": "tv_28.jpg",
       "title": "Seward Highway, Alaska",
       "bytes": 260121
+    },
+    {
+      "file": "tv_29.jpg",
+      "title": "Voie lactée, parc national des Écrins (France)",
+      "bytes": 352773
+    },
+    {
+      "file": "tv_30.jpg",
+      "title": "Voie lactée sur Spirit Island, lac Maligne (Canada)",
+      "bytes": 385814
+    },
+    {
+      "file": "tv_31.jpg",
+      "title": "Voie lactée sur la vallée de la Lune, désert d'Atacama (Chili)",
+      "bytes": 436923
+    },
+    {
+      "file": "tv_32.jpg",
+      "title": "Massif du mont Blackburn, Alaska",
+      "bytes": 341309
+    },
+    {
+      "file": "tv_33.jpg",
+      "title": "Ruines de la mine de cuivre de Kennecott, Alaska",
+      "bytes": 362960
+    },
+    {
+      "file": "tv_34.jpg",
+      "title": "Lac du glacier Valdez et ses icebergs, Alaska",
+      "bytes": 346904
+    },
+    {
+      "file": "tv_35.jpg",
+      "title": "Monts Chugach et fjord de Valdez, Alaska",
+      "bytes": 369590
     }
   ],
   "tel": [
@@ -282,6 +317,41 @@
       "file": "tel_28.jpg",
       "title": "Seward Highway, Alaska",
       "bytes": 291422
+    },
+    {
+      "file": "tel_29.jpg",
+      "title": "Voie lactée, parc national des Écrins (France)",
+      "bytes": 356089
+    },
+    {
+      "file": "tel_30.jpg",
+      "title": "Voie lactée sur Spirit Island, lac Maligne (Canada)",
+      "bytes": 422899
+    },
+    {
+      "file": "tel_31.jpg",
+      "title": "Voie lactée sur la vallée de la Lune, désert d'Atacama (Chili)",
+      "bytes": 438068
+    },
+    {
+      "file": "tel_32.jpg",
+      "title": "Massif du mont Blackburn, Alaska",
+      "bytes": 368035
+    },
+    {
+      "file": "tel_33.jpg",
+      "title": "Ruines de la mine de cuivre de Kennecott, Alaska",
+      "bytes": 367221
+    },
+    {
+      "file": "tel_34.jpg",
+      "title": "Lac du glacier Valdez et ses icebergs, Alaska",
+      "bytes": 321912
+    },
+    {
+      "file": "tel_35.jpg",
+      "title": "Monts Chugach et fjord de Valdez, Alaska",
+      "bytes": 337758
     }
   ]
 }
