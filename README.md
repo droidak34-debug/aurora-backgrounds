@@ -1,7 +1,7 @@
 # Arrière-plans d'Aurora Player
 
 Photos d'aurores boréales affichées sur l'accueil d'Aurora Player (mode « Aurores boréales », réglage par défaut) :
-elles défilent au hasard toutes les 10 s, avec le nom du lieu juste au-dessus de la barre de l'accueil.
+elles défilent dans l'ordre (01, 02, 03…) toutes les 10 s, avec le nom du lieu juste au-dessus de la barre de l'accueil.
 L'appli en contient 3 (01 à 03) et télécharge les autres d'ici, une seule fois.
 
 - `tv/tv_NN.jpg` : version paysage (1920×1072) — Android TV, Samsung, LG, VIDAA
